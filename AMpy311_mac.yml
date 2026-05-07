@@ -1,0 +1,11 @@
+name: AMpy311
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - seqkit
+  - minimap2
+  - hifiasm
+  - flye
+prefix: /Users/yk/miniforge3/envs/AMpy311
