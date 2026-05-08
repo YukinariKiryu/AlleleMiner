@@ -1,0 +1,15 @@
+name: AMpy311
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - minimap2
+  - python=3.11
+  - seqkit
+  - hifiasm
+  - flye
+  - pip
+  - muscle
+  - clustalo
+  - prank
