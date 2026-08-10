@@ -344,7 +344,7 @@ AlleleMiner is released under the MIT License. See [LICENSE](LICENSE).
 
 ## Contact
 
-Yukinari Kiryu, Hiroshi Fujii (fujii.hiroshi@shizuoka.ac.jp) — Shizuoka University
+Yukinari Kiryu, Hiroshi Fujii — Shizuoka University
 
 ## Funding
 
