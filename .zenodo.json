@@ -1,0 +1,39 @@
+{
+  "upload_type": "software",
+  "title": "AlleleMiner: a long-read pipeline for gene-wise de novo allele phasing in diploid genomes",
+  "description": "<p>AlleleMiner reconstructs the two allele sequences of each target gene directly from PacBio HiFi reads. The reference genome is used only to define the target locus and to recruit reads; the sequence itself is rebuilt by <i>de novo</i> assembly at each locus, which keeps reference dependence to a minimum. A heterozygous locus yields two allele sequences and a homozygous locus yields one, together with user-defined flanking regions.</p><p>Described in Kiryu <i>et al.</i> (2026) <i>DNA Research</i> 33(2): dsag004, doi:10.1093/dnares/dsag004.</p>",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    { "name": "Kiryu, Yukinari",    "affiliation": "Graduate School of Integrated Science and Technology, Shizuoka University" },
+    { "name": "Kawahara, Yoshihiro","affiliation": "Advanced Analysis Center, National Agriculture and Food Research Organization" },
+    { "name": "Endo, Tomoko",       "affiliation": "Institute of Fruit Tree and Tea Science, National Agriculture and Food Research Organization" },
+    { "name": "Horiike, Tokumasa",  "affiliation": "Graduate School of Integrated Science and Technology, Shizuoka University" },
+    { "name": "Shirasawa, Kenta",   "affiliation": "Kazusa DNA Research Institute" },
+    { "name": "Isobe, Sachiko",     "affiliation": "Kazusa DNA Research Institute" },
+    { "name": "Shimada, Takehiko",  "affiliation": "Institute of Fruit Tree and Tea Science, National Agriculture and Food Research Organization" },
+    { "name": "Fujii, Hiroshi",     "affiliation": "Faculty of Agriculture, Shizuoka University" }
+  ],
+  "keywords": [
+    "allele phasing",
+    "PacBio HiFi sequencing",
+    "de novo assembly",
+    "heterozygous crops",
+    "citrus genomics",
+    "allele mining",
+    "marker-assisted selection"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1093/dnares/dsag004",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ],
+  "grants": [
+    { "id": "10.13039/501100001691::23K26902" },
+    { "id": "10.13039/501100001691::23K05224" }
+  ],
+  "language": "eng"
+}
