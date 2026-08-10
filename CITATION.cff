@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software itself and the paper below."
+title: AlleleMiner
+abstract: >-
+  A long-read pipeline for gene-wise de novo allele phasing in diploid genomes.
+  AlleleMiner reconstructs the two allele sequences of each target gene directly
+  from PacBio HiFi reads, using the reference genome only to define the target
+  locus and to recruit reads.
+type: software
+version: 1.0.0
+date-released: "2026-08-01"
+license: MIT
+repository-code: "https://github.com/YukinariKiryu/AlleleMiner"
+keywords:
+  - allele phasing
+  - PacBio HiFi sequencing
+  - de novo assembly
+  - heterozygous crops
+  - citrus genomics
+authors:
+  - family-names: Kiryu
+    given-names: Yukinari
+    affiliation: "Graduate School of Integrated Science and Technology, Shizuoka University"
+  - family-names: Kawahara
+    given-names: Yoshihiro
+    affiliation: "Advanced Analysis Center, National Agriculture and Food Research Organization"
+  - family-names: Endo
+    given-names: Tomoko
+    affiliation: "Institute of Fruit Tree and Tea Science, National Agriculture and Food Research Organization"
+  - family-names: Horiike
+    given-names: Tokumasa
+    affiliation: "Graduate School of Integrated Science and Technology, Shizuoka University"
+  - family-names: Shirasawa
+    given-names: Kenta
+    affiliation: "Kazusa DNA Research Institute"
+  - family-names: Isobe
+    given-names: Sachiko
+    affiliation: "Kazusa DNA Research Institute"
+  - family-names: Shimada
+    given-names: Takehiko
+    affiliation: "Institute of Fruit Tree and Tea Science, National Agriculture and Food Research Organization"
+  - family-names: Fujii
+    given-names: Hiroshi
+    affiliation: "Faculty of Agriculture, Shizuoka University"
+preferred-citation:
+  type: article
+  title: >-
+    AlleleMiner: a long-read pipeline for gene-wise de novo allele phasing and
+    variant detection in diploid citrus cultivars
+  journal: "DNA Research"
+  volume: 33
+  issue: 2
+  start: dsag004
+  year: 2026
+  doi: 10.1093/dnares/dsag004
+  authors:
+    - family-names: Kiryu
+      given-names: Yukinari
+    - family-names: Kawahara
+      given-names: Yoshihiro
+    - family-names: Endo
+      given-names: Tomoko
+    - family-names: Horiike
+      given-names: Tokumasa
+    - family-names: Shirasawa
+      given-names: Kenta
+    - family-names: Isobe
+      given-names: Sachiko
+    - family-names: Shimada
+      given-names: Takehiko
+    - family-names: Fujii
+      given-names: Hiroshi
